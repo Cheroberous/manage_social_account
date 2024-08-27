@@ -1,4 +1,4 @@
-# manage_social:account
+# manage_social_account
 
 
 #Scopo del progetto :
